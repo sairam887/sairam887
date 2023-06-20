@@ -1,8 +1,7 @@
 # Sai Ram
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-green?style=flat)](https://www.yourportfolio.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Resume-red?style=flat)](https://www.yourresume.com)
+[![Phone](https://img.shields.io/badge/Phone-+919573212322-blue?style=flat&logo=phone)](tel:+919573212322)
+[![Email](https://img.shields.io/badge/Email-ramsai%40aol.com-blue?style=flat&logo=mail)](mailto:ramsai887@aol.com)
 
 ## Objective
 Results-oriented and detail-driven C# Selenium developer with 3 years of experience seeking a challenging position to utilize my skills in automated testing, software development, and problem-solving in a dynamic and collaborative environment.
